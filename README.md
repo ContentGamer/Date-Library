@@ -6,11 +6,13 @@ CPP (C Plus Plus) Date Library
 ```CPP
 #include <iostream>
 #include "datelib.cpp"
+#include "timelib.cpp"
  
 using namespace std;
  
 int main(){
-   cout << getYears() << endl;
+   cout << getYears();
+   cout << getMinutes() << endl;
    return 0;
 }
 ```
