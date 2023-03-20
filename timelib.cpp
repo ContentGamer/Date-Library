@@ -3,6 +3,10 @@
 #include <sstream>
 #include <stdlib.h>
 
+/*
+  *@author ContentGamer
+*/
+
 using namespace std;
 
 int getHours(){
