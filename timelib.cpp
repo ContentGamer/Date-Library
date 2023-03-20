@@ -3,8 +3,8 @@
 #include <sstream>
 #include <stdlib.h>
 
-/*
-  *@author ContentGamer
+/**
+  * @author ContentGamer
 */
 
 using namespace std;
